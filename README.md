@@ -1,1 +1,1 @@
-This mod fix tree log Textures and change some textures. Now stars are colored. - v0.1
+This mod fix tree log textures, stars are colored. - v0.1
